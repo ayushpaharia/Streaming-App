@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "This is a sample new stream description",
+      "id": 1
+    },
+    {
+      "title": "Another new stream",
+      "description": "New description",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page",
+      "userId": "105977035075407188648",
+      "id": 4
+    },
+    {
+      "title": "I'm making a refactor",
+      "description": "Stream Form with component Reuse!",
+      "userId": "105977035075407188648",
+      "id": 5
+    }
+  ]
+}
