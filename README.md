@@ -1,6 +1,9 @@
 # Streaming-App
 React Redux Streaming App
 
+![Streaming App](https://i.postimg.cc/0jkMBGHQ/image-1.png)
+
+
 ## Introduction
 
 This project is made by using React, Redux, Json Server, Node RTMP server & flv.js
