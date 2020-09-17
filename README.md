@@ -4,10 +4,10 @@ React Redux Streaming App
 ## Introduction
 
 This project is made by using React, Redux, Json Server, Node RTMP server & flv.js
-- User OAuth with Google OAuth
+- User OAuth with Google OAuth2.0
 - User can make, delete & edit a stream they created.
 - User can stream onto any stream with OBS & RTMP server with flv.js
-- Image upload data upload and retrival with firestore
+- Image upload & data upload and retrieval with firestore
 - App hosted on Firebase.
 
 ## Setup
